@@ -1,0 +1,5 @@
+1. Clone the repository.
+2. Run "yarn install" to install all the dependencies.
+3. Run "react-native run-ios".
+
+Need to install yarn and react-native-cli before this. 
