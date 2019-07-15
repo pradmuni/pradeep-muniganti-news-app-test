@@ -3,3 +3,5 @@
 3. Run "react-native run-ios".
 
 Need to install yarn and react-native-cli before this. 
+
+PS: These instructions are for macOS. For windows please refer https://facebook.github.io/react-native/docs/getting-started
